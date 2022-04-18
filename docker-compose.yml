@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+    getting-started:
+        ports:
+            - 80:80
+        image: 720734152322.dkr.ecr.us-west-2.amazonaws.com/getting-started:latest
+
